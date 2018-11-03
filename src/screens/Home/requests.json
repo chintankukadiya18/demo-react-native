@@ -1,0 +1,30 @@
+[
+  {
+    "status": "CONFIRMED",
+    "area": "A1",
+    "schedule": "12/10/2018 - 15/10/2018",
+    "name" : "Abc xyz",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Face-smile.svg/1024px-Face-smile.svg.png"
+  },
+  {
+    "status": "PENDING",
+    "area": "A2",
+    "schedule": "12/10/2018 - 15/10/2018",
+    "name" : "Abc xyz",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Face-smile.svg/1024px-Face-smile.svg.png"
+  },
+  {
+    "status": "CONFIRMED",
+    "area": "A3",
+    "schedule": "12/10/2018 - 15/10/2018",
+    "name" : "Abc xyz",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Face-smile.svg/1024px-Face-smile.svg.png"
+  },
+  {
+    "status": "PENDING",
+    "area": "A4",
+    "schedule": "12/10/2018 - 15/10/2018",
+    "name" : "Abc xyz",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Face-smile.svg/1024px-Face-smile.svg.png"
+  }
+]
